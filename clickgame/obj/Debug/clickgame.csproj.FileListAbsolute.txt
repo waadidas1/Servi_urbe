@@ -1,0 +1,10 @@
+C:\Users\waadi\source\repos\clickgame\obj\Debug\clickgame.csprojAssemblyReference.cache
+C:\Users\waadi\source\repos\clickgame\obj\Debug\clickgame.Form1.resources
+C:\Users\waadi\source\repos\clickgame\obj\Debug\clickgame.Properties.Resources.resources
+C:\Users\waadi\source\repos\clickgame\obj\Debug\clickgame.csproj.GenerateResource.cache
+C:\Users\waadi\source\repos\clickgame\obj\Debug\clickgame.csproj.CoreCompileInputs.cache
+C:\Users\waadi\source\repos\clickgame\bin\Debug\clickgame.exe.config
+C:\Users\waadi\source\repos\clickgame\bin\Debug\clickgame.exe
+C:\Users\waadi\source\repos\clickgame\bin\Debug\clickgame.pdb
+C:\Users\waadi\source\repos\clickgame\obj\Debug\clickgame.exe
+C:\Users\waadi\source\repos\clickgame\obj\Debug\clickgame.pdb

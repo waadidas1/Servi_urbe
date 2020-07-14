@@ -1,0 +1,12 @@
+C:\Users\waadi\source\repos\clickgame\bin\Debug\Servi urbe.exe.config
+C:\Users\waadi\source\repos\clickgame\bin\Debug\Servi urbe.exe
+C:\Users\waadi\source\repos\clickgame\bin\Debug\Servi urbe.pdb
+C:\Users\waadi\source\repos\clickgame\obj\Debug\Servi urbe.csprojAssemblyReference.cache
+C:\Users\waadi\source\repos\clickgame\obj\Debug\Servi_urbe.Game.resources
+C:\Users\waadi\source\repos\clickgame\obj\Debug\Servi_urbe.Properties.Resources.resources
+C:\Users\waadi\source\repos\clickgame\obj\Debug\Servi urbe.csproj.GenerateResource.cache
+C:\Users\waadi\source\repos\clickgame\obj\Debug\Servi urbe.csproj.CoreCompileInputs.cache
+C:\Users\waadi\source\repos\clickgame\obj\Debug\Servi urbe.exe
+C:\Users\waadi\source\repos\clickgame\obj\Debug\Servi urbe.pdb
+C:\Users\waadi\source\repos\clickgame\obj\Debug\Servi_urbe.Shop.resources
+C:\Users\waadi\source\repos\clickgame\obj\Debug\Servi_urbe.FactionWindow.resources
